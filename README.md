@@ -94,7 +94,7 @@ http://localhost:3000
 **Harsh Mhatre**
 
 - GitHub: [@harshnmhatre143](https://github.com/harshnmhatre143)
-- LinkedIn: Add your LinkedIn profile URL
+- LinkedIn: [harsh-mhatre](https://www.linkedin.com/in/harsh-mhatre-684812283/)
 
 ---
 
