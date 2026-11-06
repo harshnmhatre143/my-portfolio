@@ -1,36 +1,101 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Personal Portfolio
 
-## Getting Started
+A personal portfolio website built with Next.js to showcase my skills, projects, education, and experience as a Full Stack Web Developer.
 
-First, run the development server:
+## 🚀 About
+
+Hi, I'm Harsh Mhatre, a Computer Engineering student and Full Stack Web Developer. I enjoy building modern, responsive web applications and exploring new technologies.
+
+This portfolio highlights my technical skills, development projects, and background.
+
+## 🛠️ Tech Stack
+
+- **Framework:** Next.js
+- **Library:** React.js
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion
+- **Icons:** Lucide React, React Icons
+
+## ✨ Features
+
+- Clean and responsive design
+- Home page with introduction
+- About page with education and experience
+- Skills page showcasing technical skills
+- Projects page with individual project details
+- Project screenshots and technology information
+- Contact page with social links
+- Responsive navigation and footer
+
+## 📂 Project Structure
+
+```text
+my-portfolio/
+├── public/
+│   ├── projectPics/
+│   ├── profile.jpeg
+│   └── portfolio-fav.png
+│
+├── src/
+│   └── app/
+│       ├── about/
+│       ├── contact/
+│       ├── projects/
+│       ├── skills/
+│       ├── components/
+│       ├── layout.js
+│       ├── page.js
+│       └── globals.css
+│
+├── package.json
+└── README.md
+```
+
+## ⚙️ Installation and Setup
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/my-portfolio.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd my-portfolio
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Start the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+5. Open your browser:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```text
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📌 Future Improvements
 
-## Learn More
+- Deploy the portfolio website
+- Integrate a working contact email service
+- Add more projects and updates
 
-To learn more about Next.js, take a look at the following resources:
+## 👨‍💻 Author
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**Harsh Mhatre**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- GitHub: [@harshnmhatre143](https://github.com/harshnmhatre143)
+- LinkedIn: Add your LinkedIn profile URL
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+⭐ If you like this project, consider giving it a star!
