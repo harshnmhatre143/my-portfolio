@@ -30,10 +30,10 @@ const Footer = () => {
                     <a href="https://github.com/harshnmhatre143" target="_blank" rel="noreferrer">
                         <FaGithub size={20} />
                     </a>
-                    <a href="#" aria-label="LinkedIn">
+                    <a href="https://www.linkedin.com/in/harsh-mhatre-684812283/" aria-label="LinkedIn"  target="_blank" rel="noopener noreferrer">
                         <FaLinkedinIn size={20} />
                     </a>
-                    <a href="mailto:your-email@example.com" aria-label="Email">
+                    <a href="mailto:harshnmhatre143@gmail.com" aria-label="Email">
                         <Mail size={20} />
                     </a>
                 </div>

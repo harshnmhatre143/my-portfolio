@@ -56,7 +56,7 @@ const Hero = () => {
             </a>
 
             <a
-              href="YOUR_LINKEDIN_URL"
+              href="https://www.linkedin.com/in/harsh-mhatre-684812283/"
               target="_blank"
               rel="noreferrer"
               aria-label="LinkedIn"
@@ -65,7 +65,7 @@ const Hero = () => {
             </a>
 
             <a
-              href="mailto:YOUR_EMAIL"
+              href="mailto:harshnmhatre143@gmail.com"
               aria-label="Email"
             >
               <Mail size={23} />
